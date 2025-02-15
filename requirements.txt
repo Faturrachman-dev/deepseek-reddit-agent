@@ -1,5 +1,5 @@
-langchain 
-openai 
+praw
+openai
 python-dotenv
-langchain-community
-langchain-core
+beautifulsoup4
+requests
